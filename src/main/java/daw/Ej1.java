@@ -20,6 +20,7 @@ public class Ej1 {
         mostrarArray(arrayVocales);
         String[] arrayVocales2 = obtenerArrayPalabrasConVocales(arrayPalabras, 2);
         mostrarArray(arrayVocales2);
+        System.out.println("t5");
     }
 
     private static int obtenerNumPalabras() {
